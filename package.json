@@ -3,8 +3,7 @@
   "name": "@hexlet/code",
   "type": "module",
   "version": "1.0.0",
-  "description": "[![Actions 
-Status](https://github.com/JuliaUsacheva/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/JuliaUsacheva/frontend-project-44/actions)",
+  "description": "[![Actions Status](https://github.com/JuliaUsacheva/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/JuliaUsacheva/frontend-project-44/actions)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,6 +11,7 @@ Status](https://github.com/JuliaUsacheva/frontend-project-44/workflows/hexlet-ch
   "author": "",
   "license": "ISC",
   "bin": {
-    "code": "bin/brain-games.js"
+    "code": "bin/brain-games.js",
+    "brain-games": "bin/brain-games.js"
   }
 }
